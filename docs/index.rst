@@ -10,7 +10,7 @@ Email remains one of the most essential tools in modern life, and Juno Mail cont
 
 In this guide, we’ll explore Juno Mail’s customer support, login and sign-in process, activation, and how services like IDrive complement email management through data backup and protection.
 
-.. image:: get-start.png
+.. image:: start.png
    :alt: My Project Logo
    :width: 400px
    :align: center
