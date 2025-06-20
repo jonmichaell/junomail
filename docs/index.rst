@@ -1,5 +1,5 @@
 How to Use Juno Mail for Simple and Reliable Email Access?
-
+---------
 
 .. toctree::
    :maxdepth: 2
